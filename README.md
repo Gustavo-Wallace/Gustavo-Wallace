@@ -1,4 +1,4 @@
-<h1 align="center">Gustavo Wallace</h1>
+<h1 align="center">Gustavo Wallace Macedo Santos</h1>
 
 <p align="center">
   Desenvolvedor em formação com foco em <strong>Java Back-end</strong>, APIs, banco de dados e construção de software com boas práticas.
