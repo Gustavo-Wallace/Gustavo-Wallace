@@ -4,12 +4,6 @@
   Desenvolvedor em formação com foco em <strong>Java Back-end</strong>, APIs, banco de dados e construção de software com boas práticas.
 </p>
 
-<p align="center">
-  <a href="https://github.com/Gustavo-Wallace">
-    <img src="https://komarev.com/ghpvc/?username=Gustavo-Wallace&label=Visualiza%C3%A7%C3%B5es&color=0e75b6&style=flat" alt="Visualizações do perfil" />
-  </a>
-</p>
-
 ---
 
 ## Tecnologias e ferramentas
