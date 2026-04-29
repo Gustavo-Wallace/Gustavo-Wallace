@@ -45,7 +45,7 @@
 </p>
 
 ---
-## [Certificados e diplomas](https://github.com/Gustavo-Wallace/certificados)
+## [Certificados, diplomas e certificações](https://github.com/Gustavo-Wallace/certificados)
 ---
 
 ## Atualmente estudando
