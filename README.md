@@ -44,4 +44,4 @@ Game Development
 ## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gustavo--Wallace-181717?style=for-the-badge\&logo=github)](https://github.com/Gustavo-Wallace)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Wallace-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Wallace-0A66C2?style=for-the-badge\&logo=linkedin)](linkedin.com/in/gustavo-wallace)
