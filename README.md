@@ -8,16 +8,18 @@
 
 ---
 
-```bash
+<div align="center">
+
+<pre>
 gustavo@security-lab:~$ whoami
 
 Cybersecurity student
 Backend developer
 Automation tools builder
 Game dev hobbyist
-```
+</pre>
 
-```bash
+<pre>
 gustavo@security-lab:~$ focus
 
 Security tools
@@ -25,7 +27,9 @@ Data processing
 Internal automation
 Backend development
 Game development
-```
+</pre>
+
+</div>
 
 ---
 
@@ -37,17 +41,17 @@ Game development
 
 <div align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge\&logo=godot-engine\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GDScript](https://img.shields.io/badge/GDScript-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=spring-security\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=spring-security&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge\&logo=godot-engine\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
 
 </div>
 
@@ -55,26 +59,18 @@ Game development
 
 ## Areas
 
-```txt
+<div align="center">
+
+<pre>
 [+] Cybersecurity
 [+] Backend Development
 [+] Automation Tools
 [+] Data Processing
 [+] Internal Tools
 [+] Game Development
-```
+</pre>
 
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Wallace&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff66&icon_color=00ff66&text_color=ffffff" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Wallace&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff66&text_color=ffffff" />
-</p>
+</div>
 
 ---
 
