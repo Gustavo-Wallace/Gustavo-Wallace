@@ -41,18 +41,6 @@ Game Development
 
 ---
 
-## GitHub
-
-<div align="left">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gustavo-Wallace\&show_icons=true\&theme=github_dark\&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Wallace\&layout=compact\&theme=github_dark\&hide_border=true)
-
-</div>
-
----
-
 ## Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-Gustavo--Wallace-181717?style=for-the-badge\&logo=github)](https://github.com/Gustavo-Wallace)
