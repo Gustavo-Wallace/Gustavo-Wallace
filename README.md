@@ -1,16 +1,41 @@
-# Gustavo Wallace
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=180&section=header&text=Gustavo%20Wallace&fontSize=42&fontColor=00ff66&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Automation%20%7C%20Backend%20%7C%20Game%20Dev&descAlignY=55&descSize=16" />
+</p>
 
-### Segurança da Informação • Automação • Backend • Game Dev
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=00FF66&center=true&vCenter=true&width=750&lines=%3E+Cybersecurity+Student;%3E+Building+automation+tools;%3E+Java+%7C+Python+%7C+GDScript;%3E+Backend+%26+Security;%3E+Game+Dev+as+a+hobby" />
+</p>
 
-Desenvolvedor em formação com foco em **Segurança da Informação** e criação de ferramentas para **automação, análise e tratamento de dados**.
+---
 
-Também desenvolvo jogos por hobby, usando a Godot como laboratório criativo para lógica, sistemas e gameplay.
+```bash
+gustavo@security-lab:~$ whoami
+
+Cybersecurity student
+Backend developer
+Automation tools builder
+Game dev hobbyist
+```
+
+```bash
+gustavo@security-lab:~$ focus
+
+Security tools
+Data processing
+Internal automation
+Backend development
+Game development
+```
 
 ---
 
 ## Tech Stack
 
-<div align="left">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,spring,postgres,docker,git,github,godot" />
+</p>
+
+<div align="center">
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
@@ -28,20 +53,40 @@ Também desenvolvo jogos por hobby, usando a Godot como laboratório criativo pa
 
 ---
 
-## Áreas de interesse
+## Areas
 
 ```txt
-Cybersecurity
-Backend Development
-Automation Tools
-Data Processing
-Internal Tools
-Game Development
+[+] Cybersecurity
+[+] Backend Development
+[+] Automation Tools
+[+] Data Processing
+[+] Internal Tools
+[+] Game Development
 ```
 
 ---
 
-## Contato
+## GitHub Stats
 
-[![GitHub](https://img.shields.io/badge/GitHub-Gustavo--Wallace-181717?style=for-the-badge\&logo=github)](https://github.com/Gustavo-Wallace)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Wallace-0A66C2?style=for-the-badge\&logo=linkedin)](linkedin.com/in/gustavo-wallace)
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Wallace&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff66&icon_color=00ff66&text_color=ffffff" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Wallace&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00ff66&text_color=ffffff" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://github.com/Gustavo-Wallace">
+    <img src="https://img.shields.io/badge/GitHub-Gustavo--Wallace-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://github.com/Gustavo-Wallace/certificados">
+    <img src="https://img.shields.io/badge/Certificates-Repository-00ff66?style=for-the-badge&logo=github&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=100&section=footer" />
+</p>
