@@ -11,7 +11,7 @@
 <div align="center">
 
 <pre>
-gustavo@security-lab:~$ whoami
+> whoami
 
 Cybersecurity student
 Backend developer
@@ -20,7 +20,7 @@ Game dev hobbyist
 </pre>
 
 <pre>
-gustavo@security-lab:~$ focus
+> focus
 
 Security tools
 Data processing
