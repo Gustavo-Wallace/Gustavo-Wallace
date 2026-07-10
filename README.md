@@ -57,23 +57,6 @@ Game development
 
 ---
 
-## Areas
-
-<div align="center">
-
-<pre>
-[+] Cybersecurity
-[+] Backend Development
-[+] Automation Tools
-[+] Data Processing
-[+] Internal Tools
-[+] Game Development
-</pre>
-
-</div>
-
----
-
 <p align="center">
   <a href="https://github.com/Gustavo-Wallace">
     <img src="https://img.shields.io/badge/GitHub-Gustavo--Wallace-181717?style=for-the-badge&logo=github" />
