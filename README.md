@@ -51,28 +51,6 @@ REST API for **IP risk analysis**, identifying VPNs, proxies, Tor, datacenters a
 
 ---
 
-## Cybersecurity Journey
-
-<div align="center">
-
-<pre>
-> learning
-
-SOC & Blue Team
-Security monitoring
-Incident response
-Network security
-Threat analysis
-
-Microsoft SC-900
-CompTIA Security+
-TryHackMe
-</pre>
-
-</div>
-
----
-
 ## Tech Stack
 
 <p align="center">
@@ -91,21 +69,6 @@ TryHackMe
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-</div>
-
----
-
-## Other Interests
-
-<div align="center">
-
-<pre>
-> beyond_security
-
-Backend development
-Game development as a hobby
-</pre>
 
 </div>
 
