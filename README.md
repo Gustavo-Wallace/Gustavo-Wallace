@@ -37,9 +37,9 @@ Threat monitoring & analysis
 
 <div align="center">
 
-### 🛡️ [Data Mask Studio](https://github.com/Gustavo-Wallace/data-mask-studio)
+### 🛡️ [Data Mask Studio (DMS)](https://github.com/Gustavo-Wallace/data-mask-studio)
 
-Local desktop application for **data protection and privacy**, focused on deterministic and reversible anonymization, secure mapping storage and safe processing of sensitive datasets.
+Local desktop application for data masking, data protection and privacy, focused on deterministic pseudonymization, secure mapping storage and safe processing of sensitive datasets.
 
 <br>
 
