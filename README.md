@@ -37,13 +37,13 @@ Threat monitoring & analysis
 
 <div align="center">
 
-### 🛡️ [Data Mask Studio (DMS)](https://github.com/Gustavo-Wallace/data-mask-studio)
+###  [Data Mask Studio (DMS)](https://github.com/Gustavo-Wallace/data-mask-studio)
 
 Local desktop application for data masking, data protection and privacy, focused on deterministic pseudonymization, secure mapping storage and safe processing of sensitive datasets.
 
 <br>
 
-### 🌐 [IP Check API](https://github.com/Gustavo-Wallace/ip-check-api)
+###  [IP Check API](https://github.com/Gustavo-Wallace/ip-check-api)
 
 REST API for **IP risk analysis**, identifying VPNs, proxies, Tor, datacenters and other indicators associated with anonymization and potentially risky network activity.
 
