@@ -37,7 +37,7 @@ Threat monitoring & analysis
 
 <div align="center">
 
-###  [Data Mask Studio (DMS)](https://github.com/Gustavo-Wallace/data-mask-studio)
+###  [Data Mask Studio](https://github.com/Gustavo-Wallace/data-mask-studio)
 
 Local desktop application for data masking, data protection and privacy, focused on deterministic pseudonymization, secure mapping storage and safe processing of sensitive datasets.
 
@@ -78,8 +78,8 @@ REST API for **IP risk analysis**, identifying VPNs, proxies, Tor, datacenters a
   <a href="https://github.com/Gustavo-Wallace">
     <img src="https://img.shields.io/badge/GitHub-Gustavo--Wallace-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://github.com/Gustavo-Wallace/certificados">
-    <img src="https://img.shields.io/badge/Certificates-Repository-00ff66?style=for-the-badge&logo=github&logoColor=black" />
+  <a href="https://github.com/Gustavo-Wallace/credentials">
+    <img src="https://img.shields.io/badge/Credentials-Repository-00ff66?style=for-the-badge&logo=github&logoColor=black" />
   </a>
 </p>
 
