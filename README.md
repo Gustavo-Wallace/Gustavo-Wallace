@@ -6,24 +6,16 @@
     alt="Gustavo Wallace — Cybersecurity | SOC &amp; Blue Team | Security-focused developer"
   />
 </div>
-
-**01 / ABOUT**
+## About
 
 Focused on defensive cybersecurity, combining security analysis and software development to build practical tools for data protection, automation, and local AI.
 
-**02 / FEATURED PROJECT**
+## Featured Project
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/Gustavo-Wallace/data-mask-studio"><strong>🛡️ Data Mask Studio ↗</strong></a><br />
-      Local-first data masking with an encrypted vault and controlled restoration.
-    </td>
-  </tr>
-</table>
+**[Data Mask Studio](https://github.com/Gustavo-Wallace/data-mask-studio)** — Local-first data masking with an encrypted vault and controlled restoration.
 
-**03 / CONNECT**
+## Connect
 
 <a href="https://github.com/Gustavo-Wallace/credentials"><img src="https://img.shields.io/badge/Credentials-00C853?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Credentials" /></a>
-<a href="https://tryhackme.com/p/g.wallace"><img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" /></a>
+<a href="https://tryhackme.com/p/YOUR_USERNAME"><img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" /></a>
 <a href="https://www.linkedin.com/in/gustavo-wallace/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" /></a>
