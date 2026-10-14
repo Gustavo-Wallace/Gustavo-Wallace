@@ -6,6 +6,7 @@
     alt="Gustavo Wallace — Cybersecurity | SOC &amp; Blue Team | Security-focused developer"
   />
 </div>
+
 ## About
 
 Focused on defensive cybersecurity, combining security analysis and software development to build practical tools for data protection, automation, and local AI.
