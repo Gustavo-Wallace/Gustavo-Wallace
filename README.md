@@ -13,14 +13,19 @@ Focused on defensive cybersecurity, combining security analysis and software dev
 
 ## `Featured Project`
 
-**[Data Mask Studio](https://github.com/Gustavo-Wallace/data-mask-studio)** — Local-first data masking with an encrypted vault and controlled restoration.
+**Data Mask Studio** &nbsp;
+<a href="https://github.com/Gustavo-Wallace/data-mask-studio">
+  <img src="https://img.shields.io/badge/View_Project-165B3A?style=flat-square&amp;logo=github&amp;logoColor=white" alt="View Data Mask Studio" />
+</a>
+
+Local-first data masking with an encrypted vault and controlled restoration.
 
 ## `Connect`
 
 <a href="https://github.com/Gustavo-Wallace/credentials">
   <img src="https://img.shields.io/badge/Credentials-00C853?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Credentials" />
 </a>
-<a href="https://tryhackme.com/p/g.wallace">
+<a href="https://tryhackme.com/p/YOUR_USERNAME">
   <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
 </a>
 <a href="https://www.linkedin.com/in/gustavo-wallace/">
