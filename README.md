@@ -1,88 +1,34 @@
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=180&section=header&text=Gustavo%20Wallace&fontSize=42&fontColor=00ff66&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Blue%20Team%20%7C%20Automation%20%7C%20Data%20Security&descAlignY=55&descSize=16" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:003300&height=150&section=header&text=Gustavo%20Wallace&fontSize=40&fontColor=00ff66&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20SOC%20%26%20Blue%20Team%20%7C%20Security-focused%20developer&descAlignY=59&descSize=14"
+    alt="Gustavo Wallace"
+    width="100%"
+  />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2500&pause=900&color=00FF66&center=true&vCenter=true&width=750&lines=%3E+Cybersecurity+%26+Blue+Team;%3E+Security-focused+automation;%3E+Python+%7C+Java;%3E+Data+Protection+%26+Analysis;%3E+Building+security+tools" />
-</p>
-
----
-
-<div align="center">
-
-<pre>
-> whoami
-
-Cybersecurity-focused professional
-Data analysis & automation
-Python and Java developer
-Blue Team enthusiast
-</pre>
-
-<pre>
-> focus
-
-Cybersecurity
-SOC & Blue Team
-Security automation
-Data protection
-Threat monitoring & analysis
-</pre>
-
-</div>
-
----
-
-## Featured Security Projects
-
-<div align="center">
-
-###  [Data Mask Studio](https://github.com/Gustavo-Wallace/data-mask-studio)
-
-Local desktop application for data masking, data protection and privacy, focused on deterministic pseudonymization, secure mapping storage and safe processing of sensitive datasets.
-
-<br>
-
-###  [IP Check API](https://github.com/Gustavo-Wallace/ip-check-api)
-
-REST API for **IP risk analysis**, identifying VPNs, proxies, Tor, datacenters and other indicators associated with anonymization and potentially risky network activity.
-
-</div>
-
----
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,spring,postgres,docker,git,github" />
-</p>
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=spring-boot\&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge\&logo=spring-security\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-</div>
-
----
-
-<p align="center">
-  <a href="https://github.com/Gustavo-Wallace">
-    <img src="https://img.shields.io/badge/GitHub-Gustavo--Wallace-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://github.com/Gustavo-Wallace/credentials">
-    <img src="https://img.shields.io/badge/Credentials-Repository-00ff66?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
+  <code>&gt; whoami</code><br>
+  Focused on defensive cybersecurity, combining security analysis and software development to build practical tools for data protection, automation, and local AI.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:003300,100:000000&height=100&section=footer" />
+  <code>&gt; featured_project</code><br>
+  <a href="https://github.com/Gustavo-Wallace/data-mask-studio"><b>Data Mask Studio</b></a>
+  — Local-first data protection and masking, with an encrypted vault and controlled restoration.
+</p>
+
+<p align="center">
+  <code>&gt; toolkit</code><br><br>
+  <img
+    src="https://skillicons.dev/icons?i=python,git,sqlite,linux&theme=dark"
+    height="38"
+    alt="Python, Git, SQLite, Linux"
+  />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Gustavo-Wallace/credentials">Credentials</a> ·
+  <a href="https://tryhackme.com/p/YOUR_USERNAME">TryHackMe</a> ·
+  <a href="https://linkedin.com/in/gustavo-wallace/">LinkedIn</a>
 </p>
