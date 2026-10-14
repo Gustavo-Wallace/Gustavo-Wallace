@@ -25,7 +25,7 @@ Local-first data masking with an encrypted vault and controlled restoration.
 <a href="https://github.com/Gustavo-Wallace/credentials">
   <img src="https://img.shields.io/badge/Credentials-00C853?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Credentials" />
 </a>
-<a href="https://tryhackme.com/p/YOUR_USERNAME">
+<a href="https://tryhackme.com/p/g.wallace">
   <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
 </a>
 <a href="https://www.linkedin.com/in/gustavo-wallace/">
