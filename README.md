@@ -7,23 +7,20 @@
   />
 </div>
 
-## <samp>About</samp>
+## `About`
 
-<samp>Focused on defensive cybersecurity, combining security analysis and software development to build practical tools for data protection, automation, and local AI.</samp>
+Focused on defensive cybersecurity, combining security analysis and software development to build practical tools for data protection, automation, and local AI.
 
-## <samp>Featured Project</samp>
+## `Featured Project`
 
-<a href="https://github.com/Gustavo-Wallace/data-mask-studio">
-  <img src="./dms_icon.svg" width="24" height="24" alt="Data Mask Studio" />
-</a>
-<samp><strong>Data Mask Studio</strong> — Local-first data masking with an encrypted vault and controlled restoration.</samp>
+**[Data Mask Studio](https://github.com/Gustavo-Wallace/data-mask-studio)** — Local-first data masking with an encrypted vault and controlled restoration.
 
-## <samp>Connect</samp>
+## `Connect`
 
 <a href="https://github.com/Gustavo-Wallace/credentials">
   <img src="https://img.shields.io/badge/Credentials-00C853?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Credentials" />
 </a>
-<a href="https://tryhackme.com/p/YOUR_USERNAME">
+<a href="https://tryhackme.com/p/g.wallace">
   <img src="https://img.shields.io/badge/TryHackMe-C11111?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
 </a>
 <a href="https://www.linkedin.com/in/gustavo-wallace/">
